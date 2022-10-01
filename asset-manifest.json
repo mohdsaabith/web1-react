@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/web1-react/static/css/main.3212fcd5.css",
-    "main.js": "/web1-react/static/js/main.cd538423.js",
+    "main.css": "/web1-react/static/css/main.3d88c944.css",
+    "main.js": "/web1-react/static/js/main.b33193ae.js",
     "static/js/787.c81b6cbd.chunk.js": "/web1-react/static/js/787.c81b6cbd.chunk.js",
     "static/media/2.jpg": "/web1-react/static/media/2.06bb59724962ba02748d.jpg",
     "static/media/network-bg.png": "/web1-react/static/media/network-bg.26538d8c79640ff3a65c.png",
@@ -12,12 +12,12 @@
     "static/media/curve-1.png": "/web1-react/static/media/curve-1.6451e26ef5c8294ad2cf.png",
     "index.html": "/web1-react/index.html",
     "static/media/Menu.svg": "/web1-react/static/media/Menu.27df51a0dfd075e2ddf310b339f1fcdb.svg",
-    "main.3212fcd5.css.map": "/web1-react/static/css/main.3212fcd5.css.map",
-    "main.cd538423.js.map": "/web1-react/static/js/main.cd538423.js.map",
+    "main.3d88c944.css.map": "/web1-react/static/css/main.3d88c944.css.map",
+    "main.b33193ae.js.map": "/web1-react/static/js/main.b33193ae.js.map",
     "787.c81b6cbd.chunk.js.map": "/web1-react/static/js/787.c81b6cbd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3212fcd5.css",
-    "static/js/main.cd538423.js"
+    "static/css/main.3d88c944.css",
+    "static/js/main.b33193ae.js"
   ]
 }
